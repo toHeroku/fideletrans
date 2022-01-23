@@ -163,9 +163,7 @@ a{
     
      </tr>
 
-          <?php
-echo date('y-m-d-w h:i:s');
-?>
+
                    
 </table>
 
